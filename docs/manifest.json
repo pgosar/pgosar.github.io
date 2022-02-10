@@ -3,9 +3,9 @@
   "name": "Pranay's Website",
   "icons": [
     {
-      "src": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80",
+      "src": "./assets/img/elephant.jpg",
       "type": "image/jpg",
-      "sizes": "1932x1087"
+      "sizes": "512x512"
     }
   ],
   "start_url": "pgosar.github.io",
